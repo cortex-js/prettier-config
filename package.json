@@ -1,0 +1,9 @@
+{
+  "name": "@cortex-js/prettier-config",
+  "version": "1.0.0",
+  "description": "CortexJS Prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:cortex-js/prettier-config.git",
+  "author": "Arno Gourdol <arno@arno.org>",
+  "license": "MIT"
+}
