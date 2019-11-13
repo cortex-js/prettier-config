@@ -3,7 +3,20 @@
   "version": "1.0.0",
   "description": "CortexJS Prettier config",
   "main": "index.json",
-  "repository": "git@github.com:cortex-js/prettier-config.git",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cortex-js/prettier-config.git"
+  },
   "author": "Arno Gourdol <arno@arno.org>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cortex-js/prettier-config/issues"
+  },
+  "homepage": "https://github.com/cortex-js/prettier-config#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prettier"
+  ]
 }
