@@ -7,7 +7,6 @@
   "jsxBracketSameLine": false,
   "proseWrap": "always",
   "quoteProps": "consistent",
-  "singleQuote": false,
   "semi": true,
   "singleQuote": true,
   "tabWidth": 2,
@@ -15,8 +14,8 @@
   "useTabs": false,
   "overrides": [
     {
-       "files": ".prettierrc",
-       "options": { "parser": "json" }
-     }
+      "files": ".prettierrc",
+      "options": { "parser": "json" }
+    }
   ]
 }
