@@ -1,6 +1,6 @@
 {
   "name": "@cortex-js/prettier-config",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "CortexJS Prettier config",
   "main": "index.json",
   "repository": {
