@@ -16,6 +16,21 @@
     {
       "files": ".prettierrc",
       "options": { "parser": "json" }
+    },
+    {
+      "files": "*.md",
+      "options": {
+        "singleQuote": false,
+        "quoteProps": "preserve",
+        "embeddedLanguageFormatting": "off"
+      }
+    },
+    {
+      "files": "*.html",
+      "options": {
+        "singleQuote": false,
+        "quoteProps": "preserve"
+      }
     }
   ]
 }
